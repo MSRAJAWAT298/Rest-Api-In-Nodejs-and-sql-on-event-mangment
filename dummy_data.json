@@ -1,0 +1,76 @@
+[
+    {
+      "event_name": "Cocktail Party",
+      "event_starting_time": "2022-01-30 1:30:00",
+      "event_duration": "1:00:00"
+    },
+    {
+      "event_name": "Corporate Event",
+      "event_starting_time": "2022-02-30 2:30",
+      "event_duration": "2:00:00"
+    },
+    {
+      "event_name": "India Event",
+      "event_starting_time": "2022-03-2 2:00:00",
+      "event_duration": "3:00:00"
+    },
+    {
+      "event_name": "Flim and TV Show",
+      "event_starting_time": "2022-03-2 3:00:00",
+      "event_duration": "4:00:00"
+    },
+    {
+      "event_name": "Advertisement Film Shooting",
+      "event_starting_time": "2022-03-3 4:30:00",
+      "event_duration": "5:00:00"
+    },
+    {
+      "event_name": "Live Show",
+      "event_starting_time": "2022-03-4 5:30:00",
+      "event_duration": "6:00:00"
+    },
+    {
+      "event_name": "Hospitality Services",
+      "event_starting_time": "2022-03-5 6:00:00",
+      "event_duration": "7:00:00"
+    },
+    {
+      "event_name": "Marriage Arrangement",
+      "event_starting_time": "2022-03-6 7:00:00",
+      "event_duration": "8:00:00"
+    },
+    {
+      "event_name": "Indian Wedding",
+      "event_starting_time": "2022-03-7 8:00:00",
+      "event_duration": "9:00:00"
+    },
+    {
+      "event_name": "Beach Wedding",
+      "event_starting_time": "2022-03-8 10:00:00",
+      "event_duration": "10:00:00"
+    },
+    {
+      "event_name": "Royal Wedding",
+      "event_starting_time": "2022-03-9 9:00:00",
+      "event_duration": "11:00:00"
+    },
+    {
+      "event_name": "Wedding Theme",
+      "event_starting_time": "2022-03-20 11:00:00",
+      "event_duration": "12:00:00"
+    },
+    {
+      "event_name": "Wedding Venues",
+      "event_starting_time": "2022-03-21 12:00:00",
+      "event_duration": "13:00:00"
+    },
+    {
+      "event_name": "Reception Ceremony",
+      "event_starting_time": "2022-03-21 12:00:00",
+      "event_duration": "14:00:00"
+    }
+  ]
+
+
+
+// dummy_token "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.cThIIoDvwdueQB468K5xDc5633seEFoqwxjF_xSJyQQ"
