@@ -30,6 +30,7 @@ npm
 mysql
 
 ===================================
+
 Pre-requirement 
 
 Token = "eyJ1c2VyX2lkIjoiMiIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.a8e7cmg-U7gSvdB2m_LS8wqz20w4_wKfV2AqD4Is4ng"
@@ -44,7 +45,9 @@ Dummy data to insert
 }
 
 METHOD POST :  http://localhost:3000/api/create_event
+
 METHOD GET  :  http://localhost:3000/api/live_event
+
 METHOD GET  :  http://localhost:3000/api/upcoming_event
 
 
